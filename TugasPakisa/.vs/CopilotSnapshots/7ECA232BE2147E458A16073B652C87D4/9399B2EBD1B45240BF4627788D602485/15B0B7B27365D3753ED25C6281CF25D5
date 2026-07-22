@@ -1,0 +1,17 @@
+﻿namespace Tugas1
+{
+    static void Main()
+    {
+        class Kalkulator
+    {
+        public int A = 10;
+        public int B = 20;
+
+        public int Tambah()
+        {
+            return A + B;
+        }
+    }
+}
+    
+}

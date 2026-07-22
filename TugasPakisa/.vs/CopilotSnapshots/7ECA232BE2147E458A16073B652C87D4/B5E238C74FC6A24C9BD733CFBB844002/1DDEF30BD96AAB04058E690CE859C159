@@ -1,0 +1,13 @@
+﻿namespace Tugas1
+{
+    static void Main ()
+    {
+        class Kalkulator
+    {
+        int a = 10;
+        int b = 20;
+        int c = 20 + 20;
+        ;
+    }
+}
+}

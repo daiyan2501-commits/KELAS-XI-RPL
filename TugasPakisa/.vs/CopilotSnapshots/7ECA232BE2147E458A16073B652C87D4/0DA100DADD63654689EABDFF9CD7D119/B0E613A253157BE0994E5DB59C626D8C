@@ -1,0 +1,18 @@
+﻿namespace Tugas1
+{
+    class Kalkulator
+    {
+        public int A { get; set; } = 10;
+        public int B { get; set; } = 20;
+        public int C => A + B;
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            var k = new Kalkulator();
+            System.Console.WriteLine($"A={k.A}, B={k.B}, C={k.C}");
+        }
+    }
+}
