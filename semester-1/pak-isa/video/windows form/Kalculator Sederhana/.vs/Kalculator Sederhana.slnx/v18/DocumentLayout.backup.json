@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87A94776-01A3-40A3-B54B-4C6E0E3B87A5}|Kalculator Sederhana\\Kalculator Sederhana.csproj|C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\kalculator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87A94776-01A3-40A3-B54B-4C6E0E3B87A5}|Kalculator Sederhana\\Kalculator Sederhana.csproj|solutionrelative:kalculator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A94776-01A3-40A3-B54B-4C6E0E3B87A5}|Kalculator Sederhana\\Kalculator Sederhana.csproj|c:\\users\\administrator\\source\\repos\\kalculator sederhana\\kalculator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A94776-01A3-40A3-B54B-4C6E0E3B87A5}|Kalculator Sederhana\\Kalculator Sederhana.csproj|solutionrelative:kalculator sederhana\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87A94776-01A3-40A3-B54B-4C6E0E3B87A5}|Kalculator Sederhana\\Kalculator Sederhana.csproj|c:\\users\\administrator\\source\\repos\\kalculator sederhana\\kalculator sederhana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87A94776-01A3-40A3-B54B-4C6E0E3B87A5}|Kalculator Sederhana\\Kalculator Sederhana.csproj|solutionrelative:kalculator sederhana\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\Kalculator Sederhana\\Form1.cs",
+              "RelativeDocumentMoniker": "Kalculator Sederhana\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\Kalculator Sederhana\\Form1.cs",
+              "RelativeToolTip": "Kalculator Sederhana\\Form1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T12:39:43.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\Kalculator Sederhana\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Kalculator Sederhana\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\Kalculator Sederhana\\Form1.Designer.cs",
+              "RelativeToolTip": "Kalculator Sederhana\\Form1.Designer.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAUwIwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-04T06:26:55.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\Kalculator Sederhana\\Form1.cs",
+              "RelativeDocumentMoniker": "Kalculator Sederhana\\Form1.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Kalculator Sederhana\\Kalculator Sederhana\\Form1.cs [Design]",
+              "RelativeToolTip": "Kalculator Sederhana\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T12:07:52.201Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
