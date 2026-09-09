@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.sourcelink.json
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\bin\Debug\net10.0\PBO.exe
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\bin\Debug\net10.0\PBO.deps.json
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\bin\Debug\net10.0\PBO.runtimeconfig.json
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\bin\Debug\net10.0\PBO.dll
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\bin\Debug\net10.0\PBO.pdb
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.dll
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\refint\PBO.dll
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.pdb
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\PBO.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PBO\PBO\PBO\obj\Debug\net10.0\ref\PBO.dll
