@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\bin\Debug\Contoh Soal Part-1.exe.config
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\bin\Debug\Contoh Soal Part-1.exe
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\bin\Debug\Contoh Soal Part-1.pdb
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh Soal Part-1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh_Soal_Part_1.Form1Login.resources
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh_Soal_Part_1.Form2Register.resources
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh_Soal_Part_1.Form3Dashboard.resources
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh_Soal_Part_1.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh Soal Part-1.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh Soal Part-1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh Soal Part-1.exe
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\video\windows form\Contoh Soal Part-1\Contoh Soal Part-1\obj\Debug\Contoh Soal Part-1.pdb
