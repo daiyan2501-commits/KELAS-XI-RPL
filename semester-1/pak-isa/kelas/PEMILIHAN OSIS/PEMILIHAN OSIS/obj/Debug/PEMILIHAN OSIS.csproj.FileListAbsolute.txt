@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\bin\Debug\PEMILIHAN OSIS.exe.config
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\bin\Debug\PEMILIHAN OSIS.exe
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\bin\Debug\PEMILIHAN OSIS.pdb
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN OSIS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN_OSIS.Form1.resources
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN_OSIS.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN OSIS.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN OSIS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN OSIS.exe
+C:\Users\Administrator\source\repos\Kelas XI RPL\semester-1\pak-isa\kelas\PEMILIHAN OSIS\PEMILIHAN OSIS\obj\Debug\PEMILIHAN OSIS.pdb
